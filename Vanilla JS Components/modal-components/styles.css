@@ -1,0 +1,24 @@
+
+@import url("./css/variables.css");
+@import url("./css/navBar.css");
+@import url("./css/eclipseElement.css");
+@import url("./css/modal.css");
+@import url("./css/button.css");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#app {
+    max-width: 900px;
+    margin: auto;
+}
+
+body {
+    color: var(--main-font-color);
+    background-color: var(--bg-color);
+} 
+
+
